@@ -28,7 +28,7 @@ MIDDLEWARE = [
     # 👇 Add this line here
     'corsheaders.middleware.CorsMiddleware',
     # Add above line just before this line 👇
-    'django.middleware.common.CommonMiddleware',
+    'corsheaders.middleware.CorsMiddleware',
 ]
 
 # 👇 Add this line here
