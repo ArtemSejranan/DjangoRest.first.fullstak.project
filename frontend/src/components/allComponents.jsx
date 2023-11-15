@@ -1,6 +1,6 @@
 import { Routes, Route, useLocation } from 'react-router-dom'
 import NoPage from './NoPage.jsx'
-import Auth from './Authentication.js'
+import Auth from './Authentication'
 
 export default function AllComponents() {
   const location = useLocation()
