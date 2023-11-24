@@ -1,4 +1,4 @@
-# DjangoRest.first.fullstak.project
+# djangoRest.first.fullstak.project
 
 # Fullstack group project
 
